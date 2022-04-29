@@ -12,3 +12,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git remote](Remote.md)
 - [git push](Push.md)
 - [git pull](Pull.md)
+- [git status](Status.md)
