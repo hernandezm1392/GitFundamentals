@@ -10,3 +10,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git add](Add.md)
 - [got commit](Commit.md)
 - [git remote](Remote.md)
+- [git push](Push.md)
